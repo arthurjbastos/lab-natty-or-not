@@ -1,5 +1,7 @@
 # E-BOOK: O Diário de Lauren Lance 🧪📒
 
+Este Lab se baseia em uma atividade durante o Bootcamp realizada para testar os limites da IA generativa. Utilizando de ferramentas de aprendizado profundo para geração de imagens e textos, buscou-se desenvolver um e-book único, similar à escrita humana o máximo possível, seguindo prompts, ideias e textos de base escritos inteiramente por mim.
+
 ## 📒 Descrição
 "O Diário de Lauren" é um e-book de 34 páginas que conta uma história narrativa em terceira e posteriormente em primeira pessoa, baseada em um universo mágico onde a música é a base de tudo. Explora a vida e crescimento da personagem, apresentando problemáticas e reviravoltas, com um desenvolvimento de personagem e situações que se desenrolam ao longo da história.
 
