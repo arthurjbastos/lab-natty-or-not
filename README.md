@@ -17,7 +17,7 @@ Utilizei o "ChatGPT" para revisar, estruturar e corrigir o conteúdo escrito a p
 ## 🚀 Resultados finais
 O e-book apresenta uma história envolvente e visualmente rico, contando uma história curta, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na geração de conteúdos escritos também para o entretenimento, além de contribuir com ortografia e criatividade.
 
-**[LINK PARA O E-BOOK](https://drive.google.com/file/d/1dvkrwaLumGShHv0cnan7G0koxN5hUqo8/view?usp=sharing)**
+**[LINK PARA O E-BOOK]([https://drive.google.com/file/d/1dvkrwaLumGShHv0cnan7G0koxN5hUqo8/view?usp=sharing](https://docs.google.com/document/d/1br5LKjn5i35UJYgbyPGPzY0WhSxcn2YOdVp7pGQikB4/edit?usp=sharing))**
 
 ## 💭 Reflexão
 Criar este e-book foi uma experiência interessante ao unir ideias simples e transformá-las em algo grande e completo com a ajuda de inteligências artificiais como ferramentas que permitem a liberdade da criatividade humana, ajudando a tornar uma simples ideia algo concreto e real, através da escrita narrativa.
